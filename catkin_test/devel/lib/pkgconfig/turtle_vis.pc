@@ -1,0 +1,8 @@
+prefix=/home/phw/catkin_test/devel
+
+Name: turtle_vis
+Description: Description of turtle_vis
+Version: 0.0.0
+Cflags: -I/home/phw/catkin_test/devel/include -I/home/phw/catkin_test/src/Song/turtle_vis/include
+Libs: -L/home/phw/catkin_test/devel/lib -lturtle_ros_tutorial
+Requires: roscpp rospy std_msgs tf tf_conversions visualization_msgs message_run
