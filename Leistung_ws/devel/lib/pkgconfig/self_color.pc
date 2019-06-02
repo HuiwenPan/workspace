@@ -1,0 +1,8 @@
+prefix=/home/phw/catkin_ws/devel
+
+Name: self_color
+Description: Description of self_color
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/catkin_ws/devel/lib 
+Requires: 

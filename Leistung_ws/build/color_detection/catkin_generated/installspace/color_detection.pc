@@ -1,0 +1,8 @@
+prefix=/home/phw/catkin_ws/install
+
+Name: color_detection
+Description: Description of color_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/catkin_ws/install/lib -lobject_detection
+Requires: roscpp geometry_msgs sensor_msgs

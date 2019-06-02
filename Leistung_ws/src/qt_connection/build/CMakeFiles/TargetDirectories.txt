@@ -1,0 +1,14 @@
+/home/atHomeWS18-19/angelina/build/CMakeFiles/edit_cache.dir
+/home/atHomeWS18-19/angelina/build/CMakeFiles/rebuild_cache.dir
+/home/atHomeWS18-19/angelina/build/angelina/CMakeFiles/edit_cache.dir
+/home/atHomeWS18-19/angelina/build/angelina/CMakeFiles/rebuild_cache.dir
+/home/atHomeWS18-19/angelina/build/angelina/CMakeFiles/angelina.dir
+/home/atHomeWS18-19/angelina/build/angelina/CMakeFiles/angelina_automoc.dir
+/home/atHomeWS18-19/angelina/build/hermes/CMakeFiles/edit_cache.dir
+/home/atHomeWS18-19/angelina/build/hermes/CMakeFiles/rebuild_cache.dir
+/home/atHomeWS18-19/angelina/build/hermes/CMakeFiles/referee.dir
+/home/atHomeWS18-19/angelina/build/hermes/CMakeFiles/referee_automoc.dir
+/home/atHomeWS18-19/angelina/build/example/CMakeFiles/edit_cache.dir
+/home/atHomeWS18-19/angelina/build/example/CMakeFiles/rebuild_cache.dir
+/home/atHomeWS18-19/angelina/build/example/CMakeFiles/testgui.dir
+/home/atHomeWS18-19/angelina/build/example/CMakeFiles/testgui_automoc.dir

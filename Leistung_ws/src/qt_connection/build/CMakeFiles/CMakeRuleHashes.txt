@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+17fa1f65e30d2eebbccc1165c75214ae angelina/CMakeFiles/angelina_automoc
+f33dd0a0ce4b9e3f050e8428414831c2 angelina/qrc_icons.cpp
+f516ee43b1f3367d4521b320a4c37fb7 example/CMakeFiles/testgui_automoc
+51b97712d25ab20d917bf315e44a4ed6 hermes/CMakeFiles/referee_automoc

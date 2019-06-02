@@ -1,0 +1,8 @@
+# Define the goal
+geometry_msgs/Pose2D goal_pose  
+---
+# Define the result
+geometry_msgs/Pose2D final_pose
+---
+# Define a feedback message
+geometry_msgs/Pose2D current_pose

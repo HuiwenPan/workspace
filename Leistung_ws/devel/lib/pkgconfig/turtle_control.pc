@@ -1,0 +1,8 @@
+prefix=/home/phw/catkin_ws/devel
+
+Name: turtle_control
+Description: Description of turtle_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/catkin_ws/devel/lib -lturtlebot_control
+Requires: roscpp rospy std_msgs

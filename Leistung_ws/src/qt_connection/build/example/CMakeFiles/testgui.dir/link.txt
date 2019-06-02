@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/testgui.dir/testgui.cpp.o CMakeFiles/testgui.dir/main.cpp.o CMakeFiles/testgui.dir/testgui_automoc.cpp.o  -o testgui -rdynamic /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.5.1 ../hermes/libreferee.a /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.5.1 /usr/lib/x86_64-linux-gnu/libQt5Network.so.5.5.1 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1 

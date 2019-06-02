@@ -1,0 +1,15 @@
+(cl:defpackage move_control-srv
+  (:use )
+  (:export
+   "DESIREDPOSE"
+   "<DESIREDPOSE-REQUEST>"
+   "DESIREDPOSE-REQUEST"
+   "<DESIREDPOSE-RESPONSE>"
+   "DESIREDPOSE-RESPONSE"
+   "IMGPOINT"
+   "<IMGPOINT-REQUEST>"
+   "IMGPOINT-REQUEST"
+   "<IMGPOINT-RESPONSE>"
+   "IMGPOINT-RESPONSE"
+  ))
+

@@ -1,0 +1,2 @@
+create_map:laser_geometry:move_control:object_detection:qt_connection:simple_move:test_1
+-DCATKIN_DEVEL_PREFIX=/home/phw/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/phw/catkin_ws/install -G Unix Makefiles

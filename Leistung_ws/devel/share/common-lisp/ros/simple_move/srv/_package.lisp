@@ -1,0 +1,10 @@
+(cl:defpackage simple_move-srv
+  (:use )
+  (:export
+   "SIMPLE_MOVE_SERVER"
+   "<SIMPLE_MOVE_SERVER-REQUEST>"
+   "SIMPLE_MOVE_SERVER-REQUEST"
+   "<SIMPLE_MOVE_SERVER-RESPONSE>"
+   "SIMPLE_MOVE_SERVER-RESPONSE"
+  ))
+
