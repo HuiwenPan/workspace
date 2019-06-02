@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/roboCupHome/install
+
+Name: tutorial3
+Description: Description of tutorial3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/workspace/roboCupHome/install/lib 
+Requires: geometry_msgs move_base roscpp rospy std_msgs actionlib

@@ -1,0 +1,2 @@
+1_Huiwen/task_3/move_table:1_Huiwen/tutorial3:1_Huiwen/tutorial4:tiago_control:turtle_vis
+-DCATKIN_DEVEL_PREFIX=/home/phw/workspace/roboCupHome/devel -DCMAKE_INSTALL_PREFIX=/home/phw/workspace/roboCupHome/install -G Unix Makefiles

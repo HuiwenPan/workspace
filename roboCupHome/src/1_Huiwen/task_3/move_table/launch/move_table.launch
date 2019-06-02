@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <include file="$(find move_table)/launch/tiago_navigation_public.launch"/>
+  <node name="move_table" pkg="move_table" type="move_table" output="screen"/>
+</launch>

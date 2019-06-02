@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/roboCupHome/devel
+
+Name: from2dto3d
+Description: Description of from2dto3d
+Version: 0.0.1
+Cflags: -I/home/phw/workspace/roboCupHome/devel/include
+Libs: -L/home/phw/workspace/roboCupHome/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs

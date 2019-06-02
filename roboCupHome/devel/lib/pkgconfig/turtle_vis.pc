@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/roboCupHome/devel
+
+Name: turtle_vis
+Description: Description of turtle_vis
+Version: 0.0.0
+Cflags: -I/home/phw/workspace/roboCupHome/devel/include -I/home/phw/workspace/roboCupHome/src/turtle_vis/include
+Libs: -L/home/phw/workspace/roboCupHome/devel/lib -lturtle_vis
+Requires: roscpp rospy std_msgs tf tf_conversions visualization_msgs message_run

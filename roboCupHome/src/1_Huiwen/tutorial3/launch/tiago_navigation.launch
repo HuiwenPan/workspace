@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<launch>
+
+    <!--Map Server-->
+    <arg name="map_file" default="$(find tutorial3)/Maps/map.yaml"/>
+    <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)"/>
+
+    <!-- Map -->
+    <include file="$(find tiago_2dnav_gazebo)/launch/tiago_navigation_public.launch">
+	<rosparam name="inflation_radius" value="0.4" ns="global_costmap/inflation_layer"/>
+    </include>
+
+    <node name="tiago_navigation" pkg="tutorial3" type="tiago_navigation" output="screen"/>
+</launch>

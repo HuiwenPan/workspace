@@ -1,0 +1,2 @@
+aruco_detector
+-DCATKIN_DEVEL_PREFIX=/home/phw/workspace/forschung_ws/devel -DCMAKE_INSTALL_PREFIX=/home/phw/workspace/forschung_ws/install -G Unix Makefiles

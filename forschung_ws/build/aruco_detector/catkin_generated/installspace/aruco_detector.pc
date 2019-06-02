@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/forschung_ws/install
+
+Name: aruco_detector
+Description: Description of aruco_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/workspace/forschung_ws/install/lib 
+Requires: cv_bridge geometry_msgs roscpp std_msgs tf

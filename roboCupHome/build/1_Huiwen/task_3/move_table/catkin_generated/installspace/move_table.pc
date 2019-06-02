@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/roboCupHome/install
+
+Name: move_table
+Description: Description of move_table
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phw/workspace/roboCupHome/install/lib 
+Requires: 

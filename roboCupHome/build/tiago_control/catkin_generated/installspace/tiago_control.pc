@@ -1,0 +1,8 @@
+prefix=/home/phw/workspace/roboCupHome/install
+
+Name: tiago_control
+Description: Description of tiago_control
+Version: 0.0.0
+Cflags: -I/home/phw/workspace/roboCupHome/install/include
+Libs: -L/home/phw/workspace/roboCupHome/install/lib -ltiago_control
+Requires: roscpp rospy std_msgs tf tf_conversions visualization_msgs message_run geometry_msgs
